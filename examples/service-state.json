@@ -1,0 +1,7 @@
+{
+  "service_id": "example-service-001",
+  "state": "active",
+  "provider": "example-provider",
+  "provider_resource_id": "resource-example-001",
+  "updated_at": "2026-01-01T00:00:00Z"
+}
